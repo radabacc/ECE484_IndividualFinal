@@ -3,10 +3,10 @@
 This project aims to create a game display system utilizing Arduino boards and various sensors to determine game states and point values. The communication between different Arduino nodes is facilitated using nRF24L01 wireless modules. The display incorporates an LCD_I2C screen to showcase point values and signal game status.
 
 Components Used
--Arduino boards (node00, node01, node02)
--nRF24L01 wireless modules
--LCD_I2C display
--Various sensors 
+Arduino boards (node00, node01, node02), 
+nRF24L01 wireless modules, 
+LCD_I2C display, and
+Various sensors 
 
 Functionality
 The main functionalities of the project include:
