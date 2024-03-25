@@ -1,7 +1,7 @@
 # ECE484_IndividualFinal
 
 Youtube Link:
-https://youtube.com/shorts/JAau3Y7pjd8?feature=share 
+https://www.youtube.com/watch?v=JAau3Y7pjd8
 
 This project aims to create a game display system utilizing Arduino boards and various sensors to determine game states and point values. The communication between different Arduino nodes is facilitated using nRF24L01 wireless modules. The display incorporates an LCD_I2C screen to showcase point values and signal game status.
 
